@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.bash_history
+.cache/
+.ipython/
+.jupyter/
+.local/
