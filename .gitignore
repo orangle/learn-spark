@@ -108,3 +108,4 @@ venv.bak/
 .ipython/
 .jupyter/
 .local/
+private
