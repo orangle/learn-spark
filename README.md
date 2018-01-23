@@ -1,6 +1,6 @@
 # learn-spark
 
-learn notes
+learn notes, python code base py3
 
 ##### spark
 
@@ -10,4 +10,5 @@ learn notes
 
 ##### data analyze
 
+* https://github.com/jorisvandenbossche/pandas-tutorial
 * https://github.com/leesper/become-data-analyst
